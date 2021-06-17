@@ -5,5 +5,5 @@ https://olimas.github.io/Business-site-template/
 Web languages: HTML5, CSS3 (SASS) JavaScript (ES6)
 JS Frameworks: jQuery
 Design: BEM, adaptive, cross-browsing, responsive, mobile-first,
-form-validations,
+form-validations
 ```
